@@ -1,3 +1,3 @@
 Procedural-based tkinter python text-editor
 
-![Image](window.png =150x50)
+<img src="window.png" height="300">
