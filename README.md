@@ -1,3 +1,3 @@
 Procedural-based tkinter python text-editor
 
-![Image](window.png "Window")
+![Image](window.png =150x50)
